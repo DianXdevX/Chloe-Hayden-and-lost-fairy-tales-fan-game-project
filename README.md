@@ -77,4 +77,7 @@ Current objectives defined for the prototype milestone:
 - [ ] Functional sprite implementation for Chloe
 - [ ] Implementation of the first narrative chapter
 
+## 📚 Related Projects 
+*Chloe Hayden LM (Under Construction): https://notebook.google.com/notebook/4e3c4755-1598-484a-923c-8fb8654c9f9a
+
 *Authored by Diana Araujo - [DianXdevX](https://github.com/DianXdevX)
