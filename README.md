@@ -17,12 +17,12 @@ Oh, and I wrote an article related to this on Medium:  https://medium.com/@ld.di
 
 Chloe Hayden is a multifaceted talent recognized as an actress, author, and influential content creator. She is a dedicated advocate for neurodiversity and disability rights, utilizing her platform to foster understanding and acceptance. 
 
-She gained global acclaim for her portrayal of Quinni in the Netflix series *Heartbreak High* and is the author of the guide *Different, Not Less*. Her deep-seated special interests—specifically sharks, the Titanic, and the magic of fairy tales—serve as the foundational inspiration for this game's premise.
+She gained global acclaim for her portrayal of Quinni in the Netflix series *Heartbreak High* and is the author of the guide *Different, Not Less*. Her deep seated special interests—specifically sharks, the Titanic, and the magic of fairy tales—serve as the foundational inspiration for this game's premise.
 
 
 
 ## 📖 Project Overview
-**Chloe Hayden and the Lost Fairy Tales** is a classic platformer game. The world has become chaotic and hopeless due to global crises, leading humanity to succumb to the "Great Forgetting"—a collective loss of imagination where the magic of fairy tales is physically eroding from human memory. 
+**Chloe Hayden and the Lost Fairy Tales** is a classic platformer game. The world has become chaotic and hopeless due to global crises, leading humanity to succumb to the "Great Forgetting" a collective loss of imagination where the magic of fairy tales is physically eroding from human memory. 
 
 Chloe is summoned by Peter Pan to embark on an urgent mission: restore the **Supreme Book of Fairy Tales**, the source of magic anchoring human wonder to reality. By navigating through corrupted realms and reclaiming torn pages from the creeping force known as The Shadow, the player must restore the forgotten light and resilience of the world.
 
