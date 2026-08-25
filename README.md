@@ -1,4 +1,4 @@
-# <h1 align="center">Chloe bHayden and lost fairy tales</h1>
+# <h1 align="center">Chloe Hayden and lost fairy tales</h1>
 <img width="1981" height="794" alt="11a2f754-c266-4d5d-9515-c61d575c3b12" src="https://github.com/user-attachments/assets/4b858aab-1f7d-4ce7-b9f0-ae1945747064" />
 
 
