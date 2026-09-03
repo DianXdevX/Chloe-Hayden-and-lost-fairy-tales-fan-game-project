@@ -8,7 +8,8 @@ This repository houses a fan project and a technical learning endeavor. It was f
 To quote my specific reasoning for initiating this project: 
 > *"I ended up hyperfocusing on her and had this idea. I don't know if I will ever finish this someday, but this is my form of tribute since I will probably never meet her in person."*
 
-I also intend to write this narrative in a text format  in my wattpad (I accumulate a lot of projects, so yeah lol 🙃 ). You will be able to read it here:  https://www.wattpad.com/user/Dianinhaaraujo .
+I also intend to write this narrative in a text format  in my wattpad (I accumulate a lot of projects, so yeah lol 🙃 ). 
+You will be able to read it here: https://www.wattpad.com/myworks/415406369-chloe-hayden-and-lost-fairy-tales-story-under-construction .
 
 Oh, and I wrote an article related to this on Medium:  https://medium.com/@ld.diana.araujo/from-hannah-baker-to-quinni-how-stories-can-change-lives-82a799411c29.
 
